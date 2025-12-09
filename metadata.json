@@ -1,0 +1,5 @@
+{
+  "name": "ArecaBot Dashboard",
+  "description": "A modern, responsive control interface for the Autonomous Areca Nut Farming Bot. Features real-time telemetry, manual motor control, autonomous mode toggling, and independent speed adjustments via WebSocket and HTTP fallback.",
+  "requestFramePermissions": []
+}
